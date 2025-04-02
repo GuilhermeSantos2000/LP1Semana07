@@ -4,11 +4,11 @@ namespace ColorSpheres
 {
     public class Sphere
     {
-        private byte _color;
+        private Color _color;
         private float _radius;
         private int _throwCount;
 
-        public Sphere(byte color, float radius)
+        public Sphere(Color color, float radius)
         {
             _color = color;
             _radius = radius;
@@ -17,7 +17,7 @@ namespace ColorSpheres
 
         public void Pop()
         {
-            radius = 0;
+            _radius = 0;
         }
 
         public void Throw()
@@ -31,6 +31,11 @@ namespace ColorSpheres
         public int GetTimesThrown()
         {
             return _throwCount;
+        }
+
+        public override string ToString()
+        {
+            return $"Sphere({_color}, Radius: {_radius}, Times Thrown: {_throwCount})";
         }
     }
 }

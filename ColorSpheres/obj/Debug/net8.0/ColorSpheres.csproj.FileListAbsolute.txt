@@ -1,0 +1,15 @@
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\bin\Debug\net8.0\ColorSpheres.exe
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\bin\Debug\net8.0\ColorSpheres.deps.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\bin\Debug\net8.0\ColorSpheres.runtimeconfig.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\bin\Debug\net8.0\ColorSpheres.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\bin\Debug\net8.0\ColorSpheres.pdb
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.AssemblyInfoInputs.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.AssemblyInfo.cs
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.csproj.CoreCompileInputs.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.sourcelink.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\refint\ColorSpheres.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.pdb
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ColorSpheres.genruntimeconfig.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\ColorSpheres\obj\Debug\net8.0\ref\ColorSpheres.dll
