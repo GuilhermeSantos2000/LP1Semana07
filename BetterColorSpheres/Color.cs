@@ -25,34 +25,19 @@ namespace ColorSpheres
             _alpha = 255;
         }
 
-        public byte GetRed()
-        {
-            return _red;
-        }
+        public byte GetRed => _red;
 
-        public byte GetGreen()
-        {
-            return _green;
-        }
+        public byte GetGreen => _green;
 
-        public byte GetBlue()
-        {
-            return _blue;
-        }
+        public byte GetBlue => _blue;
 
-        public byte GetAlpha()
-        {
-            return _alpha;
-        }
+        public byte GetAlpha => _alpha;
 
-        public byte GetGrey()
-        {
-            return (byte)((_red + _green + _blue) / 3);
-        }
+        public byte GetGrey => (byte)((_red + _green + _blue) / 3);
 
         public override string ToString()
         {
-            return $"Color(R: {_red}, G: {_green}, B: {_blue}, A: {_alpha}, Grey: {GetGrey()})";
+            return $"Color(R: {_red}, G: {_green}, B: {_blue}, A: {_alpha}, Grey: {GetGrey})";
         }
 
     }

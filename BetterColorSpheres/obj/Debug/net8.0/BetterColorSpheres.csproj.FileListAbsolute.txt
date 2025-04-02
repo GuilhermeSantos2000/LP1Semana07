@@ -1,0 +1,15 @@
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\bin\Debug\net8.0\BetterColorSpheres.exe
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\bin\Debug\net8.0\BetterColorSpheres.deps.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\bin\Debug\net8.0\BetterColorSpheres.runtimeconfig.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\bin\Debug\net8.0\BetterColorSpheres.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\bin\Debug\net8.0\BetterColorSpheres.pdb
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.AssemblyInfoInputs.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.AssemblyInfo.cs
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.csproj.CoreCompileInputs.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.sourcelink.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\refint\BetterColorSpheres.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.pdb
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\BetterColorSpheres.genruntimeconfig.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\BetterColorSpheres\obj\Debug\net8.0\ref\BetterColorSpheres.dll

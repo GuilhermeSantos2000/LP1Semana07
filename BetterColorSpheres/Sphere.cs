@@ -28,10 +28,7 @@ namespace ColorSpheres
             }
         }
 
-        public int GetTimesThrown()
-        {
-            return _throwCount;
-        }
+        public int GetTimesThrown => _throwCount;
 
         public override string ToString()
         {
