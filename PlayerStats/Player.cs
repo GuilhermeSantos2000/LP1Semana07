@@ -24,5 +24,34 @@ namespace PlayerStats
         }
 
         public string Name { get; }
+
+        public float WinRate
+        {
+            get
+            {
+                if (playedGames == 0)
+                {
+                    return 0;
+                }
+                return (float)wonGames / playedGames;
+            }
+        }
+
+        public Player(string name)
+        {
+            Name = name;
+            highScore = 0;
+            playedGames = 0;
+            wonGames = 0;
+        }
+
+        public void PlayGame(bool win)
+        {
+            playedGames++;
+            if (win)
+            {
+                wonGames++;
+            }
+        }
     }
 }
