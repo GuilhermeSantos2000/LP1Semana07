@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetterColorSpheres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af25eeeec34d70e3805f62e758d736a7b4aeada")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32cc8b314f52c7d366db413ae26276ada67a43c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetterColorSpheres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetterColorSpheres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
