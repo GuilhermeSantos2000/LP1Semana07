@@ -10,7 +10,6 @@ classDiagram
     +Sphere(Color color, float radius)
     +Pop() void
     +Throw() void
-    +GetTimesThrown() int
 
     }
 
@@ -25,12 +24,8 @@ classDiagram
     +GetBlue: byte
     +GetAlpha: byte
     +GetGrey: byte
-
     }
 
-    class Program {
-    +Main() void
-
-    }
+    Sphere --> Color
 
 ```
