@@ -30,19 +30,24 @@ namespace MyRoguelike
             
         }        
         public float MaxHealth => 100 + (Level -1) * 20;
-        public float Health()
+        public float Health
         {
-            if (health < 0)
+            get => health;
+            
+            set 
             {
-                return health = 0;
-            }
-            if (health > MaxHealth)
-            {
-                return health = MaxHealth;
-            }
-            else
-            {
-                return health;
+                if (value < 0)
+                {
+                    health = 0;
+                }
+                else if (value > MaxHealth)
+                {
+                    health = MaxHealth;
+                }
+                else
+                {
+                    health = value;
+                }
             }
         }
         public void TakeDamage(float damage)

@@ -3,3 +3,13 @@ C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyR
 C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.AssemblyInfo.cs
 C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.csproj.CoreCompileInputs.cache
 C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.sourcelink.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\bin\Debug\net8.0\MyRoguelike.exe
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\bin\Debug\net8.0\MyRoguelike.deps.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\bin\Debug\net8.0\MyRoguelike.runtimeconfig.json
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\bin\Debug\net8.0\MyRoguelike.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\bin\Debug\net8.0\MyRoguelike.pdb
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\refint\MyRoguelike.dll
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.pdb
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.genruntimeconfig.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\ref\MyRoguelike.dll
