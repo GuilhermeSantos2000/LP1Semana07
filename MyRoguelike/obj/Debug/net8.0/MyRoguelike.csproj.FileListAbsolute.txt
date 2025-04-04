@@ -1,0 +1,5 @@
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.AssemblyInfoInputs.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.AssemblyInfo.cs
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.csproj.CoreCompileInputs.cache
+C:\Users\guica\OneDrive\Desktop\LP1\LP1Semana07\MyRoguelike\obj\Debug\net8.0\MyRoguelike.sourcelink.json
